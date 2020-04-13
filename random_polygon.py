@@ -1,4 +1,3 @@
-# python version
 
 import math
 import random
